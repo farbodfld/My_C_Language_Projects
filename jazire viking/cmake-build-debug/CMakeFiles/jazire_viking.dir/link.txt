@@ -1,0 +1,3 @@
+"E:\CLion\Instalation\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\jazire_viking.dir/objects.a
+C:\PROGRA~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\jazire_viking.dir/objects.a @CMakeFiles\jazire_viking.dir\objects1.rsp
+C:\PROGRA~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\jazire_viking.dir/objects.a -Wl,--no-whole-archive  -o jazire_viking.exe -Wl,--out-implib,libjazire_viking.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\jazire_viking.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+D:/CLionProjects/Quera Exercise/Favorite String/cmake-build-debug/CMakeFiles/Favorite_String.dir
+D:/CLionProjects/Quera Exercise/Favorite String/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/Quera Exercise/Favorite String/cmake-build-debug/CMakeFiles/rebuild_cache.dir

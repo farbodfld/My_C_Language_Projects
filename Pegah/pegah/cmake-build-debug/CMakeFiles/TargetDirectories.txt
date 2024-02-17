@@ -1,0 +1,3 @@
+D:/CLionProjects/Pegah/pegah/cmake-build-debug/CMakeFiles/pegah.dir
+D:/CLionProjects/Pegah/pegah/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/Pegah/pegah/cmake-build-debug/CMakeFiles/rebuild_cache.dir

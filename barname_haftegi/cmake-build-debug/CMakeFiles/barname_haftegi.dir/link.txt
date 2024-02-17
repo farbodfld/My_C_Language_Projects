@@ -1,0 +1,3 @@
+"E:\CLion\Instalation\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\barname_haftegi.dir/objects.a
+C:\PROGRA~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\barname_haftegi.dir/objects.a @CMakeFiles\barname_haftegi.dir\objects1.rsp
+C:\PROGRA~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\barname_haftegi.dir/objects.a -Wl,--no-whole-archive  -o barname_haftegi.exe -Wl,--out-implib,libbarname_haftegi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\barname_haftegi.dir\linklibs.rsp

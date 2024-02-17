@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\arae_of_triangle.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\arae_of_triangle.dir/objects.a @CMakeFiles\arae_of_triangle.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\arae_of_triangle.dir/objects.a -Wl,--no-whole-archive  -o arae_of_triangle.exe -Wl,--out-implib,libarae_of_triangle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\arae_of_triangle.dir\linklibs.rsp

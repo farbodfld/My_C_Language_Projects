@@ -1,0 +1,3 @@
+D:/CLionProjects/Quera Exercise/Aseman Shekar Abad/cmake-build-debug/CMakeFiles/Aseman_Shekar_Abad.dir
+D:/CLionProjects/Quera Exercise/Aseman Shekar Abad/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/Quera Exercise/Aseman Shekar Abad/cmake-build-debug/CMakeFiles/rebuild_cache.dir

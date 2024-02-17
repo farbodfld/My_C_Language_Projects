@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="MinRoob" targetName="MinRoob" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b6da587-dfe1-40e6-ae1a-a8dfb775c951" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1awHDqmj6UbMaeEhwrsaY8likUm" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../random number/main.c" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MinRoob" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MinRoob" TARGET_NAME="MinRoob" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MinRoob" RUN_TARGET_NAME="MinRoob">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b6da587-dfe1-40e6-ae1a-a8dfb775c951" name="Default Changelist" comment="" />
+      <created>1587639619306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587639619306</updated>
+      <workItem from="1587639623164" duration="10703000" />
+      <workItem from="1587663807915" duration="2941000" />
+      <workItem from="1587718256260" duration="12527000" />
+      <workItem from="1587803413797" duration="82000" />
+      <workItem from="1587805827798" duration="46000" />
+      <workItem from="1587995972256" duration="13562000" />
+      <workItem from="1588157295714" duration="16035000" />
+      <workItem from="1588238773419" duration="2907000" />
+      <workItem from="1588348945030" duration="4830000" />
+      <workItem from="1588354734778" duration="2189000" />
+      <workItem from="1588358071508" duration="1004000" />
+      <workItem from="1588405281053" duration="4658000" />
+      <workItem from="1588432217489" duration="6256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

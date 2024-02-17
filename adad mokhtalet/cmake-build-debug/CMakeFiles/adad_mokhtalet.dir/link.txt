@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\adad_mokhtalet.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\adad_mokhtalet.dir/objects.a @CMakeFiles\adad_mokhtalet.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\adad_mokhtalet.dir/objects.a -Wl,--no-whole-archive  -o adad_mokhtalet.exe -Wl,--out-implib,libadad_mokhtalet.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\adad_mokhtalet.dir\linklibs.rsp

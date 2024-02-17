@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lenovo/CLionProjects/sorting N Arrays/main.cpp
+bits/stdc++.h
+-
+
+C:/Users/lenovo/CLionProjects/sorting N Arrays/meargeKArrays.cpp
+bits/stdc++.h
+-
+

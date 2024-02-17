@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lenovo/CLionProjects/SkipList2/main.cpp
+bits/stdc++.h
+-
+cstdlib
+-
+cmath
+-
+cstring
+-
+iostream
+-
+sstream
+-
+

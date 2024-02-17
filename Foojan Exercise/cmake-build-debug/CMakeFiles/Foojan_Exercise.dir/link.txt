@@ -1,0 +1,3 @@
+"E:\CLion\Instalation\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Foojan_Exercise.dir/objects.a
+C:\PROGRA~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\Foojan_Exercise.dir/objects.a @CMakeFiles\Foojan_Exercise.dir\objects1.rsp
+C:\PROGRA~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Foojan_Exercise.dir/objects.a -Wl,--no-whole-archive  -o Foojan_Exercise.exe -Wl,--out-implib,libFoojan_Exercise.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Foojan_Exercise.dir\linklibs.rsp

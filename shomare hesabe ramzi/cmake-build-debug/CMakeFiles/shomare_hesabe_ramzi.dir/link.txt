@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\shomare_hesabe_ramzi.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\shomare_hesabe_ramzi.dir/objects.a @CMakeFiles\shomare_hesabe_ramzi.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\shomare_hesabe_ramzi.dir/objects.a -Wl,--no-whole-archive  -o shomare_hesabe_ramzi.exe -Wl,--out-implib,libshomare_hesabe_ramzi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\shomare_hesabe_ramzi.dir\linklibs.rsp

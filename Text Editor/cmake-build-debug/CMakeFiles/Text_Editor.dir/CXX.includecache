@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lenovo/CLionProjects/Text Editor/main.cpp
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+iostream
+-
+bits/stdc++.h
+-
+

@@ -1,0 +1,3 @@
+"E:\CLion\Instalation\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Tabe_Guguli.dir/objects.a
+C:\PROGRA~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\Tabe_Guguli.dir/objects.a @CMakeFiles\Tabe_Guguli.dir\objects1.rsp
+C:\PROGRA~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Tabe_Guguli.dir/objects.a -Wl,--no-whole-archive  -o Tabe_Guguli.exe -Wl,--out-implib,libTabe_Guguli.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Tabe_Guguli.dir\linklibs.rsp
